@@ -1,1 +1,1 @@
-# Alx higher level programming projects dir.
+# ALX higher level programming projects
